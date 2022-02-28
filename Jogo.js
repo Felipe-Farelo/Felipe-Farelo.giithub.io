@@ -1,4 +1,4 @@
-console.log('[DevSoutinho] Flappy Bird');
+console.log('Flappy Bird');
 
 const sprites = new Image();
 sprites.src = 'https://felipe-farelo.github.io/Felipe-Senai/Jogo-sprites.png';
