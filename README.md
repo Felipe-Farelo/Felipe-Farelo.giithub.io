@@ -1,1 +1,3 @@
-# Felipe-Farelo.github
+# Projetinho Flappy bird
+
+Joguinho bem simples ksksk...
