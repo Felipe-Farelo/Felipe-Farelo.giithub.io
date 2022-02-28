@@ -1,7 +1,7 @@
 console.log('Flappy Bird');
 
 const sprites = new Image();
-sprites.src = 'https://felipe-farelo.github.io/Flappy-Bird/Jogo-sprites.png';
+sprites.src = 'https://felipe-farelo.github.io/Flappy_Bird/Jogo-sprites.png';
 
 const canvas = document.querySelector('canvas');
 const contexto = canvas.getContext('2d');
