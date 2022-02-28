@@ -1,7 +1,7 @@
 console.log('[DevSoutinho] Flappy Bird');
 
 const sprites = new Image();
-sprites.src = './Jogo-sprites.png';
+sprites.src = 'https://felipe-farelo.github.io/Felipe-Senai/Jogo-sprites.png';
 
 const canvas = document.querySelector('canvas');
 const contexto = canvas.getContext('2d');
