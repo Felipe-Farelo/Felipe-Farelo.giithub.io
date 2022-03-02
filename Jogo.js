@@ -1,7 +1,7 @@
 console.log('Flappy Bird');
 
 const som_HIT = new Audio();
-som_HIT.src = 'https://felipe-farelo.github.io/Flappy_Bird/hit.wav';
+som_HIT.src = 'https://felipe-farelo.github.io/Flappy_Bird/efeitos/hit.wav';
 
 const sprites = new Image();
 sprites.src = 'https://felipe-farelo.github.io/Flappy_Bird/Jogo-sprites.png';
