@@ -9,7 +9,6 @@ sprites.src = 'https://felipe-farelo.github.io/Flappy_Bird/Jogo-sprites.png';
 const canvas = document.querySelector('canvas');
 const contexto = canvas.getContext('2d');
 
-
 // [Plano de Fundo]
 const planoDeFundo = {
   spriteX: 390,
