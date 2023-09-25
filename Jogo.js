@@ -5,7 +5,7 @@ const som_HIT = new Audio();
 som_HIT.src = 'https://felipe-farelo.github.io/Flappy_Bird/efeitos/hit.wav';
 
 const som_PULO = new Audio();
-som_PULO.src = 'https://github.com/Felipe-Farelo/sons/blob/main/carta.mp3';
+som_PULO.src = 'https://felipe-farelo.github.io/Flappy_Bird/efeitos/pulo.wav';
 
 const sprites = new Image();
 sprites.src = 'https://felipe-farelo.github.io/Flappy_Bird/Jogo-sprites.png';
